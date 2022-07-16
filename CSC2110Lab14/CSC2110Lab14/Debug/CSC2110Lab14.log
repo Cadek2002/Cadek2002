@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Cade\source\repos\CSC2110Lab14\CSC2110Lab14\Main.cpp(60,149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Cade\source\repos\CSC2110Lab14\CSC2110Lab14\Main.cpp(60,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CSC2110Lab14.vcxproj -> C:\Users\Cade\source\repos\CSC2110Lab14\Debug\CSC2110Lab14.exe

@@ -1,0 +1,11 @@
+﻿  Main.cpp
+  SAQuestion.cpp
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(4,16): error C3646: 'message': unknown override specifier
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(4,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(8,14): error C3646: 'what': unknown override specifier
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(8,14): error C2059: syntax error: '('
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(8,17): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(10,32): error C2061: syntax error: identifier 'string'
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(11,4): error C2065: 'message': undeclared identifier
+C:\Users\Cade\source\repos\CSC2110Lab17\CSC2110Lab17\SAQuestion.cpp(11,14): error C2065: 'm': undeclared identifier
+  Generating Code...
