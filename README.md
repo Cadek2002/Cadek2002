@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cadek2002
 - 👀 I’m interested in developing data-management software
-- 🌱 I’m currently learning SQL, HTML/CSS/JavaScript (again), Mandarin 
+- 🌱 I’m currently learning SQL, HTML/CSS/JavaScript (again) 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: cadek2020@gmail.com
 
