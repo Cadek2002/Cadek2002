@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cadek2002
 - 👀 I’m interested in developing data-management software
-- 🌱 I’m currently learning SQL, HTML/CSS/JavaScript (again) and brushing off my Java Skills with a multithreading project
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning SQL, HTML/CSS/JavaScript (again) and brushing off my Java Skills with a multithreading project.
+- 💞️ I’m looking to contribute backend work with core languages, I'd like to work more closely with common industry-used libraries.
 - 📫 How to reach me: cadek2024@gmail.com
 
 <!---
