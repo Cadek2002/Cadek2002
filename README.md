@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @Cadek2002
-- 👀 I’m interested in developing data-management software
+<h1> Cayden Koweck </h1>
+
+- 👀 I’m interested in back-end development and datamanagement solutions.
 - 🌱 I’m currently learning SQL, HTML/CSS/JavaScript (again) and brushing off my Java Skills with a multithreading project.
-- 💞️ I’m looking to contribute backend work with core languages, I'd like to work more closely with common industry-used libraries.
 - 📫 How to reach me: cadek2024@gmail.com
 
-  I'm a software developer and student at Wayne State University 
-<h2>Test</h2>
-
-<!---
-Cadek2002/Cadek2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I'm a software developer and Junior at Wayne State University. Looking for an opportunity to learn new skills and industry-relevant technologies. 
